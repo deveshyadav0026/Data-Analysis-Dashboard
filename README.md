@@ -8,25 +8,25 @@ The dashboard enables quick identification of top and low performers, tracks tar
 
 ##Key Features
 
--Four regional dashboards (East, North, South, and West) for performance comparison.
--Top and low performer identification based on total sales.
--Target performance tracking with “Target Hit %” and “Away from Target %” indicators.
--Regional contribution analysis through pie charts.
--Daily sales performance visualization using line charts.
--Interactive design using Pivot Tables, Charts, and Form Controls.
+Four regional dashboards (East, North, South, and West) for performance comparison.
+Top and low performer identification based on total sales.
+Target performance tracking with “Target Hit %” and “Away from Target %” indicators.
+Regional contribution analysis through pie charts.
+Daily sales performance visualization using line charts.
+Interactive design using Pivot Tables, Charts, and Form Controls.
 
 ##Tools and Techniques Used
 
 ###Microsoft Excel
 
--Pivot Tables and Pivot Charts
--Conditional Formatting
--Data Validation
--Form Controls and Buttons
--Dashboard Design and Formatting
+Pivot Tables and Pivot Charts
+Conditional Formatting
+Data Validation
+Form Controls and Buttons
+Dashboard Design and Formatting
 
-- ###Data Analysis and Visualization
-- ###Business Intelligence Concepts
+###Data Analysis and Visualization
+###Business Intelligence Concepts
 
 ##Project Files
 File Name	                          Description	                            Link
@@ -41,13 +41,13 @@ Add your main dashboard image below for direct viewing on GitHub.
 
 ##Business Questions Answered
 
--This dashboard helps to answer key business questions such as:
--Who are the top-performing and low-performing sales executives?
--Which region contributes the most to total sales?
--How much did each executive achieve against their sales target?
--Which executives are below target, and by how much?
--How do daily sales figures change over the five-day period?
--What is the overall sales distribution across regions?
+This dashboard helps to answer key business questions such as:
+Who are the top-performing and low-performing sales executives?
+Which region contributes the most to total sales?
+How much did each executive achieve against their sales target?
+Which executives are below target, and by how much?
+How do daily sales figures change over the five-day period?
+What is the overall sales distribution across regions?
 
 ##How to Use
 
