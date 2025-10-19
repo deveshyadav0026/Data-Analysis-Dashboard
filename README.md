@@ -41,6 +41,8 @@ The dashboard enables quick identification of top and low performers, tracks tar
  - #### Dashboard image below for direct view.
 
 
+<img width="942" height="468" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/0db628c3-5594-4bf8-8b7b-8fc7f08f1e02" />
+
 
 ## Business Questions Answered
 
