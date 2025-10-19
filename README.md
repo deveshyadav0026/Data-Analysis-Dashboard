@@ -17,7 +17,7 @@ The dashboard enables quick identification of top and low performers, tracks tar
 
 ## Tools and Techniques Used
 
-- ### Microsoft Excel
+- #### Microsoft Excel
 
     - Pivot Tables and Pivot Charts
     - Conditional Formatting
@@ -25,14 +25,16 @@ The dashboard enables quick identification of top and low performers, tracks tar
     - Form Controls and Buttons
     - Dashboard Design and Formatting
 
-- ### Data Analysis and Visualization
-- ### Business Intelligence Concepts
+- #### Data Analysis and Visualization
+- #### Business Intelligence Concepts
 
 ## Project Files
-File Name	                          Description	                            Link
 
-sales_data_unique_100 final.xlsm	Main Excel file containing the dashboard	Download Excel File
-ss excel project.png	            Screenshot of the dashboard	                View Screenshot
+| File Name                          | Description                              | Link                                   |
+| ---------------------------------- | ---------------------------------------- | -------------------------------------- |
+| `sales_data_unique_100 final.xlsm` | Main Excel file containing the dashboard | [Download Excel File](PASTE_LINK_HERE) |
+| `ss excel project.png`             | Screenshot of the dashboard              | [View Screenshot](PASTE_LINK_HERE)     |
+
 
 ## Dashboard Preview
 
