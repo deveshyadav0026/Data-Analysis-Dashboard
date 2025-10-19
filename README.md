@@ -38,8 +38,9 @@ The dashboard enables quick identification of top and low performers, tracks tar
 
 ## Dashboard Preview
 
-Add your main dashboard image below for direct viewing on GitHub.
-(You can upload it to your repository and replace the link below.)
+ - #### Dashboard image below for direct view.
+
+
 
 ## Business Questions Answered
 
