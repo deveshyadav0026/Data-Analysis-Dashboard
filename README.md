@@ -17,13 +17,13 @@ The dashboard enables quick identification of top and low performers, tracks tar
 
 ## Tools and Techniques Used
 
-### Microsoft Excel
+- ### Microsoft Excel
 
-- Pivot Tables and Pivot Charts
-- Conditional Formatting
-- Data Validation
-- Form Controls and Buttons
-- Dashboard Design and Formatting
+    - Pivot Tables and Pivot Charts
+    - Conditional Formatting
+    - Data Validation
+    - Form Controls and Buttons
+    - Dashboard Design and Formatting
 
 - ### Data Analysis and Visualization
 - ### Business Intelligence Concepts
