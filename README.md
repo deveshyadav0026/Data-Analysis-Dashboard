@@ -33,7 +33,7 @@ The dashboard enables quick identification of top and low performers, tracks tar
 | File Name                          | Description                              | Link                                   |
 | ---------------------------------- | ---------------------------------------- | -------------------------------------- |
 | `sales_data_unique_100 final.xlsm` | Main Excel file containing the dashboard | [Download Excel File](https://github.com/deveshyadav0026/Data-Analysis-Dashboard/blob/main/sales_data_unique_100%20final.xlsm) |
-| `Dashboard Screenshot.png`             | Screenshot of the dashboard              | [View Screenshot](PASTE_LINK_HERE)     |
+| `Dashboard Screenshot.png`             | Screenshot of the dashboard              | [View Screenshot](https://github.com/deveshyadav0026/Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot.png)     |
 
 
 ## Dashboard Preview
